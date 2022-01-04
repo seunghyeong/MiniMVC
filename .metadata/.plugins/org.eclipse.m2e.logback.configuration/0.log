@@ -61,3 +61,15 @@
 2022-01-04 16:11:44,165 [Worker-3: Building Project MiniProjectJava] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\workspace\springmvc_jaesung\MiniProjectJava\src\main\resources
 2022-01-04 16:11:44,167 [Worker-3: Building Project MiniProjectJava] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
 2022-01-04 16:11:44,168 [Worker-3: Building Project MiniProjectJava] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\workspace\springmvc_jaesung\MiniProjectJava\src\test\resources
+2022-01-04 16:11:44,168 [Worker-3: Building Project MiniProjectJava] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of MiniProjectJava
+2022-01-04 16:11:44,168 [Worker-3: Building Project MiniProjectJava] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for MiniProjectJava
+2022-01-04 16:11:44,172 [Worker-3: Building Project MiniProjectJava] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-01-04 16:11:44,707 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-01-04 16:11:44,709 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\workspace\springmvc_jaesung\MiniProjectJava\src\main\resources
+2022-01-04 16:11:44,710 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-01-04 16:11:44,712 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\workspace\springmvc_jaesung\MiniProjectJava\src\test\resources
+2022-01-04 16:24:30,044 [Worker-27: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: MiniProjectJava:MiniProjectJava:0.0.1-SNAPSHOT @ C:\dev\workspace\springmvc_jaesung\MiniProjectJava\pom.xml.
+2022-01-04 16:24:30,968 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-01-04 16:24:30,969 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\workspace\springmvc_jaesung\MiniProjectJava\src\main\resources
+2022-01-04 16:24:30,971 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-01-04 16:24:30,972 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\dev\workspace\springmvc_jaesung\MiniProjectJava\src\test\resources
